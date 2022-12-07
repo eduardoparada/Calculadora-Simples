@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    font-weight: 400;
+    text-align: center;
+}
+#valor{
+    font-weight: bold;
+    font-size: 20px; 
+}
+.button{
+    font-size: 30px;
+    background-color: gray;
+    color: #fff;
+    padding: 30px,30px;
+    border-radius: 10px;
+}

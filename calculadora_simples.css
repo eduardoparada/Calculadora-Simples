@@ -1,9 +1,12 @@
 body{
+    color:white;
+    background-color: green;
     font-family: Arial;
     font-weight: 400;
     text-align: center;
 }
 #valor{
+    color:white;
     font-weight: bold;
     font-size: 20px; 
 }
